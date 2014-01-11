@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="catalinc.games.memory_game">
+    <application android:label="MemoryGame"
+                 android:hardwareAccelerated="true"
+                 android:icon="@drawable/ic_launcher">
+        <activity android:name=".MemoryGame"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait"
+                  android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest> 

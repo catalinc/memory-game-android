@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_ready">Start</string>
+    <string name="state_pause">Paused</string>
+    <string name="state_game_over">Good work</string>
+    <string name="menu_new_game">New game</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_resume">Resume</string>
+    <string name="solved_in">Solved in</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="second">second</string>
+    <string name="seconds">seconds</string>
+</resources>
