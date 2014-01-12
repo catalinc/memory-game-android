@@ -1,4 +1,4 @@
-A simple memory training game for Android. The object of the game is to find all the matching pairs of colored tiles as quick as possible.
+This is a simple memory training game for Android. The object of the game is to find all the matching pairs of colored tiles as quickly as possible.
 
 Here's a screen shot taken from the game running on Android emulator:
 
