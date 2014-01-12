@@ -2,7 +2,7 @@ A simple memory training game for Android. The object of the game is to find all
 
 Here's a screen shot taken from the game running on Android emulator:
 
-![memory-game](https://github.com/catalinc/memory-game-android/raw/master/memory-game.png
+![memory-game](https://github.com/catalinc/memory-game-android/raw/master/memory-game.png)
 
 # TODO
 
